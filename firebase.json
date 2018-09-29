@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/nosqlApp",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
